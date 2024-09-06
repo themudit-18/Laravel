@@ -2,7 +2,7 @@
 
 Step 1=> Install composer setup from: 
 ```
-<a href="https://getcomposer.org/download/"> https://getcomposer.org/download/ </a>
+https://getcomposer.org/download/ 
 ```
 
 Step 2=> Install Laravel Project Using command:
