@@ -1,9 +1,9 @@
 <h1> Steps For Install And Create Laravel Project :</h1>
 
 Step 1=> Install composer setup from: 
-```
+``
 https://getcomposer.org/download/ 
-```
+``
 
 Step 2=> Install Laravel Project Using command:
 ```
