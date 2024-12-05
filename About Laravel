@@ -1,13 +1,13 @@
-``
+```
 Introduction Of Laravel
-`` 
+``` 
 
 Laravel is an open-source PHP framework designed to make web development easier and more efficient by simplifying common tasks like routing, authentication, and database management. 
 It follows the Model-View-Controller (MVC) architectural pattern and provides an elegant syntax, making it a popular choice for developers.
 
-``
+```
 Why Use Laravel?
-``
+```
 Rapid Development: Streamlines development with built-in tools and predefined templates.
 Scalability: Ideal for small to enterprise-level applications.
 Community Support: Large, active community and extensive documentation.
